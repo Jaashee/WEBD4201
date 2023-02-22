@@ -5,37 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c08c7126-3c96-4a92-9c4c-a53ea8980366" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_9_4_1200_jdbc41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqlDataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deliverable2-WEBD4201.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/CollegeInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/CustomerDA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/DatabaseConnect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/DuplicateException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Faculty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/InvalidIdException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/InvalidNameException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/InvalidPasswordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/InvalidPhoneNumberException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/InvalidUserDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Lab2Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Mark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/NotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/StudentDA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/sql/faculty.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/sql/students.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/sql/users.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/StudentDA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/StudentDA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +85,7 @@
       <workItem from="1676653771600" duration="8081000" />
       <workItem from="1676672071303" duration="7743000" />
       <workItem from="1676999699979" duration="7612000" />
+      <workItem from="1677047741851" duration="2860000" />
     </task>
     <servers />
   </component>

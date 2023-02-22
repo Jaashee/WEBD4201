@@ -1,5 +1,8 @@
 package webd4201.shanmugathasanj;
 
+import java.security.NoSuchAlgorithmException;
+import java.sql.Connection;
+import java.sql.SQLException;
 import java.util.Date;
 import java.util.Vector;
 
@@ -197,5 +200,36 @@ public class Student extends User {
         return getTypeForDisplay() + "\n" + getFirstName() + " " + getLastName()
                 + "(" + getId() + ")" + "\n" + "Currently in " + this.year + " year of "
                 + this.programDescription + " " + this.programCode + "\n" + "Enrolled: " + getEnrolDate();
+    }
+
+    public static void initialize(Connection c)
+    {
+        StudentDA.initialize(c);
+    }
+
+
+    public static void terminate()
+    {
+        StudentDA.terminate();
+    }
+
+
+    public static Student retrieve(long id) throws NotFoundException, SQLException, InvalidUserDataException, InvalidIdException, InvalidNameException, InvalidPasswordException, DuplicateException {
+        return StudentDA.retrieve(id);
+    }
+
+
+    public boolean create() throws InvalidUserDataException, DuplicateException, InvalidIdException, InvalidNameException, InvalidPasswordException, SQLException, NoSuchAlgorithmException, NotFoundException {
+        return StudentDA.create(this);
+    }
+
+
+    public  int update() throws NotFoundException, InvalidUserDataException, InvalidIdException, InvalidNameException, InvalidPasswordException, SQLException {
+        return StudentDA.update(this);
+    }
+
+
+    public int delete() throws NotFoundException, InvalidUserDataException, InvalidIdException, InvalidNameException, InvalidPasswordException, SQLException {
+        return  StudentDA.delete(this);
     }
 }
