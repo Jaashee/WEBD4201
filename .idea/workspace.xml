@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c08c7126-3c96-4a92-9c4c-a53ea8980366" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/StudentDA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/StudentDA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/CustomerDA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Lab2Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Lab2Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/sql/faculty.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/sql/faculty.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/sql/students.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/sql/students.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/sql/users.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/sql/users.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +24,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -85,7 +92,6 @@
       <workItem from="1676653771600" duration="8081000" />
       <workItem from="1676672071303" duration="7743000" />
       <workItem from="1676999699979" duration="7612000" />
-      <workItem from="1677047741851" duration="2860000" />
     </task>
     <servers />
   </component>

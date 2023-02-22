@@ -24,3 +24,5 @@ VALUES (100334455,'SEIT','Faculty of Science,Engineering & Information Technolog
 
 INSERT INTO faculty (id, schoolCode, schoolDescription, office, extension)
 VALUES (100445566,'SEIT','Faculty of Science,Engineering & Information Technology','b-110',4321);
+
+SELECT * FROM faculty;

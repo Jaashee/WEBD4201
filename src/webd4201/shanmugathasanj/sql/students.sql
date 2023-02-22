@@ -24,3 +24,5 @@ VALUES (10077806, 'CPA', 'Computer Programming & Analysis',2);
 INSERT INTO students (id, programCode, programDescription, year)
 VALUES (100112233, 'CPA', 'Computer Programming & Analysis',3);
 
+SELECT * FROM students;
+

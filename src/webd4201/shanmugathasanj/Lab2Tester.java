@@ -13,7 +13,7 @@ public class Lab2Tester {
 
 	public static void main(String[] args) {
 		System.out.println("******************** Lab 2 Output ********************\n");
-		Connection c = null;
+		Connection c =  null;
 		Student mainStudent;  //object for a program created Student
 		Student dbStudent;   //object for database retrieved Student
 		long possibleId = 100222222L;
@@ -26,10 +26,10 @@ public class Lab2Tester {
 			dbStudent = new Student();
 			System.out.println("\nCreate a Student user to insert/delete later in the program, passing:\n\t" +
 					"Student student1 = new Student(" + possibleId + "L, \"password\", \"Robert\", \"McReady\"," +
-					" \"bob.mcready@dcmail.ca\", enrol, lastAccess, 's', true, \"CPA\", \"Computer Programmer Analyst\", 3);\n"); 
+					" \"bob.mcready@dcmail.ca\", enrol, lastAccess, 's', true, \"CPA\", \"Computer Programmer Analyst\", 3);\n");
 			
 			mainStudent = new Student(possibleId,"password", "Robert", "McReady", "bob.mcready@dcmail.ca",
-					enrol, lastAccess, 's', true, "CPA", "Computer Programmer Analyst", 3);
+					enrol, lastAccess, true, 's', "CPA", "Computer Programmer Analyst", 3);
 			//mainStudent.dump();
 			try{
 				
@@ -115,7 +115,7 @@ public class Lab2Tester {
 		          try{  Student.terminate(); }catch(Exception e){}
 		          try{  DatabaseConnect.terminate(); }catch(Exception e){}
 			 }
-		}catch(InvalidUserDataException iude){
+		}catch(InvalidUserDataException | InvalidNameException | InvalidIdException | InvalidPasswordException iude){
 			System.out.println(iude.getMessage());
 		}
 	}

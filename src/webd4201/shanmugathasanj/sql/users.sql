@@ -91,3 +91,5 @@ VALUES (100445566,
         'f'
        );
 
+SELECT * FROM users;
+
