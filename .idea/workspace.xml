@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c08c7126-3c96-4a92-9c4c-a53ea8980366" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_9_4_1200_jdbc41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqlDataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deliverable2-WEBD4201.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/CollegeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/CustomerDA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/DatabaseConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/DuplicateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/InvalidIdException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/InvalidNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/InvalidPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/InvalidPhoneNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/InvalidUserDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Lab2Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Mark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/NotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/StudentDA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/sql/faculty.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/sql/students.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webd4201/shanmugathasanj/sql/users.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LsJHID6T9I2t7unKHu322gPlzo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/PostgreSQL/postgresql-9.4-1200.jdbc41.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ],
+    &quot;RunConfigurationTargetLRU&quot;: [
+      &quot;a4b9352b-cb92-4ac9-8bf1-286f5ccdf3b9&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jasha\IdeaProjects\Deliverable2-WEBD4201\src\webd4201\shanmugathasanj" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jasha\IdeaProjects\Deliverable2-WEBD4201\src\webd4201\shanmugathasanj\sql" />
+      <recent name="C:\Users\jasha\IdeaProjects\Deliverable2-WEBD4201\src\webd4201\shanmugathasanj" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="customer_db.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/webd4201/shanmugathasanj/sql/customer_db.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="a4b9352b-cb92-4ac9-8bf1-286f5ccdf3b9" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c08c7126-3c96-4a92-9c4c-a53ea8980366" name="Changes" comment="" />
+      <created>1676653770559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676653770559</updated>
+      <workItem from="1676653771600" duration="8081000" />
+      <workItem from="1676672071303" duration="7743000" />
+      <workItem from="1676999699979" duration="7612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
